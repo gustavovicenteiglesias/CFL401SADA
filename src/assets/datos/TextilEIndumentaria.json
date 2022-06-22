@@ -1,0 +1,73 @@
+[
+    
+    {
+        "CUE": 61516600,
+        "Región": 13,
+        "Centro": 401,
+        "Distrito": "San Antonio de Areco",
+        "EntidadConveniante": "Municipio",
+        "HorasTotalesAsignadas": 450,
+        "Bloque": "BLOQUE 17 Textil e Indumentaria",
+        "HorasSemanales": 11,
+        "FamiliaProfesional": "Textil e Indumentaria",
+        "Código": "TI05",
+        "Curso": "Confección De Bolsos Y Mochilas",
+        "Inicio": "01/03/2022",
+        "Final": "06/12/2022",
+        "Publicar": "01/12/2021",
+        "Módulo": ""
+    },
+   
+    {
+        "CUE": 61516600,
+        "Región": 13,
+        "Centro": 401,
+        "Distrito": "San Antonio de Areco",
+        "EntidadConveniante": "Municipio",
+        "HorasTotalesAsignadas": 180,
+        "Bloque": "BLOQUE 19",
+        "HorasSemanales": 11,
+        "FamiliaProfesional": "Textil e Indumentaria",
+        "Código": "TI-2022-33",
+        "Curso": "Operario/a Textil En Bolsones Big Bag",
+        "Inicio": "09/03/2022",
+        "Final": "22/06/2022",
+        "Publicar": "01/12/2021",
+        "Módulo": ""
+    },
+   
+    {
+        "CUE": 61516600,
+        "Región": 13,
+        "Centro": 401,
+        "Distrito": "San Antonio de Areco",
+        "EntidadConveniante": "Municipio",
+        "HorasTotalesAsignadas": 200,
+        "Bloque": "BLOQUE 18 Textil e Indumentaria",
+        "HorasSemanales": 10,
+        "FamiliaProfesional": "Textil e Indumentaria",
+        "Código": "TI20",
+        "Curso": "Patronista Y Confeccionista De Ropa De Bebe",
+        "Inicio": "02/03/2022",
+        "Final": "13/07/2022",
+        "Publicar": "01/12/2021",
+        "Módulo": ""
+    },
+    {
+        "CUE": 61516600,
+        "Región": 13,
+        "Centro": 401,
+        "Distrito": "San Antonio de Areco",
+        "EntidadConveniante": "Municipio",
+        "HorasTotalesAsignadas": 200,
+        "Bloque": "BLOQUE 18 Textil e Indumentaria",
+        "HorasSemanales": 10,
+        "FamiliaProfesional": "Textil e Indumentaria",
+        "Código": "TI07",
+        "Curso": "Confección De Lencería Y Corsetería",
+        "Inicio": "20/07/2022",
+        "Final": "02/12/2022",
+        "Publicar": "15/06/2022",
+        "Módulo": ""
+    }
+]

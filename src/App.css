@@ -38,3 +38,22 @@ text-justify:distribute;
   border-color: var(--bs-warning) !important;
   color: var(--bs-warning) !important;
 }
+.card-title{
+  padding: 2rem;
+  text-align: center;
+  background-color: beige;
+  margin-bottom: .5rem;
+}
+
+.separador{
+  
+ 
+}
+
+.cursos{
+  text-align: center;
+    padding: 1rem;
+    border-bottom: 1px solid black;
+}
+
+

@@ -1,0 +1,55 @@
+[
+    
+    {
+        "CUE": 61516600,
+        "Región": 13,
+        "Centro": 401,
+        "Distrito": "San Antonio de Areco",
+        "EntidadConveniante": "Municipio",
+        "HorasTotalesAsignadas": 550,
+        "Bloque": "BLOQUE 15 Of. Artesanales",
+        "HorasSemanales": 14,
+        "FamiliaProfesional": "Oficios Artesanales",
+        "Código": "OA11",
+        "Curso": "Muebles Artesanales Y Objetos Decorativos",
+        "Inicio": "02/03/2022",
+        "Final": "02/12/2022",
+        "Publicar": "01/12/2021",
+        "Módulo": ""
+    },
+    {
+        "CUE": 61516600,
+        "Región": 13,
+        "Centro": 401,
+        "Distrito": "San Antonio de Areco",
+        "EntidadConveniante": "Municipio",
+        "HorasTotalesAsignadas": 300,
+        "Bloque": "BLOQUE 16 Of. Artesanales",
+        "HorasSemanales": 7,
+        "FamiliaProfesional": "Oficios Artesanales",
+        "Código": "OA15",
+        "Curso": "Cestero/a",
+        "Inicio": "01/03/2022",
+        "Final": "01/12/2022",
+        "Publicar": "01/12/2021",
+        "Módulo": ""
+    },
+   
+    {
+        "CUE": 61516600,
+        "Región": 13,
+        "Centro": 401,
+        "Distrito": "San Antonio de Areco",
+        "EntidadConveniante": "Municipio",
+        "HorasTotalesAsignadas": 150,
+        "Bloque": "BLOQUE 14 Of. Artesanales",
+        "HorasSemanales": 15,
+        "FamiliaProfesional": "Oficios Artesanales",
+        "Código": "OA04",
+        "Curso": "Artesanías En Alhajas De Metales",
+        "Inicio": "26/09/2022",
+        "Final": "02/12/2022",
+        "Publicar": "01/08/2022",
+        "Módulo": ""
+    }
+]
