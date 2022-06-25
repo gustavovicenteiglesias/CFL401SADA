@@ -18,11 +18,12 @@ const TargetasFamilias = () => {
             {familias.map((data, i) => {
               
                 return (
-                    <Col lg={4} xl={4} sm={12} key={i} className="mt-4">
+                    <Col lg={4} xl={4} sm={12} key={i} className="mt-4 tarjeta">
                         <Card style={{ width: '100%' }}>
                             <Card.Body>
                                 <Card.Title>{data.nombre}</Card.Title>
                                 <Card.Img variant="top" src={data.foto} />
+                                <div className="content-cursos">
                                 {data.cursos.map((curso,i)=>{
                                     return(
                                         <div key={i} className="cursos">
@@ -30,7 +31,8 @@ const TargetasFamilias = () => {
                                         </div>
                                     )
                                 })}
-                                <div className="d-grid gap-2 mt-5">
+                                </div>
+                                <div className="d-grid gap-2 mt-1 masinformacion">
                                 <Button variant="outline-success" >Mas informacion</Button>
                                 </div>
                             </Card.Body>

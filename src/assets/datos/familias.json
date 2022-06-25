@@ -77,7 +77,6 @@
         "nombre": "Construcciones",
         "foto": "./imagenescards/informatica.jpg",
         "cursos": [
-    
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -169,7 +168,6 @@
         "nombre": "Hoteleria y Turismo",
         "foto": "./imagenescards/informatica.jpg",
         "cursos": [
-    
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -204,7 +202,6 @@
                 "Publicar": "01/06/2022",
                 "Módulo": ""
             },
-           
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -239,7 +236,6 @@
                 "Publicar": "01/06/2022",
                 "Módulo": ""
             },
-           
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -297,7 +293,6 @@
         "nombre": "Industria Alimentaria",
         "foto": "./imagenescards/informatica.jpg",
         "cursos": [
-    
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -315,7 +310,6 @@
                 "Publicar": "01/12/2021",
                 "Módulo": ""
             },
-           
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -401,7 +395,6 @@
                 "Publicar": "15/09/2022",
                 "Módulo": ""
             },
-            
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -425,7 +418,6 @@
         "nombre": "Industria Cultural y Creativas",
         "foto": "./imagenescards/informatica.jpg",
         "cursos": [
-   
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -449,7 +441,6 @@
         "nombre": "Oficios Artesanales",
         "foto": "./imagenescards/informatica.jpg",
         "cursos": [
-    
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -484,7 +475,6 @@
                 "Publicar": "01/12/2021",
                 "Módulo": ""
             },
-           
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -508,7 +498,6 @@
         "nombre": "Salud",
         "foto": "./imagenescards/informatica.jpg",
         "cursos": [
-    
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -526,7 +515,6 @@
                 "Publicar": "01/12/2021",
                 "Módulo": ""
             },
-            
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -544,7 +532,6 @@
                 "Publicar": "01/03/2022",
                 "Módulo": ""
             },
-         
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -568,7 +555,6 @@
         "nombre": "Textil e Indumentaria",
         "foto": "./imagenescards/informatica.jpg",
         "cursos": [
-    
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -586,7 +572,6 @@
                 "Publicar": "01/12/2021",
                 "Módulo": ""
             },
-           
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -604,7 +589,6 @@
                 "Publicar": "01/12/2021",
                 "Módulo": ""
             },
-           
             {
                 "CUE": 61516600,
                 "Región": 13,
@@ -638,6 +622,360 @@
                 "Final": "02/12/2022",
                 "Publicar": "15/06/2022",
                 "Módulo": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Administración y Comercialización",
+        "foto": "./imagenescards/informatica.jpg",
+        "cursos": [
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 150,
+                "Bloque": "BLOQUE 22 Adm y Comercialización",
+                "HorasSemanales": 12,
+                "FamiliaProfesional": "Administración y Comercialización",
+                "Código": "AC13",
+                "Curso": "Operador/a De Software De Gestión Administrativo Contable",
+                "Inicio": "27/04/2022",
+                "Final": "18/07/2022",
+                "Publicar": "01/03/2022",
+                "Módulo": ""
+            },
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 249,
+                "Bloque": "BLOQUE 22 Adm y Comercialización",
+                "HorasSemanales": 12,
+                "FamiliaProfesional": "Administración y Comercialización",
+                "Código": "AC35",
+                "Curso": "Gestión De Emprendimientos Productivos",
+                "Inicio": "25/07/2022",
+                "Final": "12/12/2022",
+                "Publicar": "01/06/2022",
+                "Módulo": ""
+            },
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 48,
+                "Bloque": "BLOQUE 24",
+                "HorasSemanales": 10,
+                "FamiliaProfesional": "Administración y Comercialización",
+                "Código": "AC-2022-38",
+                "Curso": "Habilidades Para Emprender",
+                "Inicio": "05/08/2022",
+                "Final": "02/09/2022",
+                "Publicar": "15/06/2021",
+                "Módulo": "Habilidades para Emprender"
+            },
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 48,
+                "Bloque": "BLOQUE 24",
+                "HorasSemanales": 10,
+                "FamiliaProfesional": "Administración y Comercialización",
+                "Código": "AC-2022-38",
+                "Curso": "Habilidades Para Emprender",
+                "Inicio": "05/09/2022",
+                "Final": "03/10/2022",
+                "Publicar": "01/09/2022",
+                "Módulo": "Habilidades para Emprender"
+            },
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 426,
+                "Bloque": "BLOQUE 23 Adm y Comercialización",
+                "HorasSemanales": 10,
+                "FamiliaProfesional": "Administración y Comercialización",
+                "Código": "AC30",
+                "Curso": "Vendedor/a",
+                "Inicio": "02/03/2022",
+                "Final": "07/12/2022",
+                "Publicar": "01/12/2021",
+                "Módulo": ""
+            },
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 120,
+                "Bloque": "BLOQUE 24",
+                "HorasSemanales": 10,
+                "FamiliaProfesional": "Administración y Comercialización",
+                "Código": "AC16",
+                "Curso": "Relaciones Públicas",
+                "Inicio": "10/10/2022",
+                "Final": "02/12/2022",
+                "Publicar": "01/09/2022",
+                "Módulo": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Comunicación Social",
+        "foto": "./imagenescards/informatica.jpg",
+        "cursos": [
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 30,
+                "Bloque": "BLOQUE 21 Salud",
+                "HorasSemanales": 4,
+                "FamiliaProfesional": "Comunicación Social",
+                "Código": "CS-2022-26",
+                "Curso": "Relaciones Laborales Y Género",
+                "Inicio": "02/03/2022",
+                "Final": "15/04/2022",
+                "Publicar": "01/12/2021",
+                "Módulo": "Relaciones laborales y género"
+            }
+        ]
+    },
+    {
+        "nombre": "Cuero y Calzado",
+        "foto": "./imagenescards/informatica.jpg",
+        "cursos": [
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 450,
+                "Bloque": "BLOQUE 14 Of. Artesanales",
+                "HorasSemanales": 15,
+                "FamiliaProfesional": "Cuero y Calzado",
+                "Código": "CC13",
+                "Curso": "Marroquinera/o",
+                "Inicio": "02/03/2022",
+                "Final": "23/09/2022",
+                "Publicar": "01/12/2021",
+                "Módulo": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Energía Eléctrica",
+        "foto": "./imagenescards/informatica.jpg",
+        "cursos": [
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 810,
+                "Bloque": "BLOQUE 6 Energia Electrica",
+                "HorasSemanales": 11,
+                "FamiliaProfesional": "Energía Eléctrica",
+                "Código": "EE22",
+                "Curso": "Electricista En Inmuebles",
+                "Inicio": "01/03/2022",
+                "Final": "01/12/2022",
+                "Publicar": "01/12/2021",
+                "Módulo": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Gastronomía",
+        "foto": "./imagenescards/informatica.jpg",
+        "cursos": [
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 540,
+                "Bloque": "BLOQUE 7 Gastronomia",
+                "HorasSemanales": 23,
+                "FamiliaProfesional": "Gastronomía",
+                "Código": "GH39",
+                "Curso": "Panadero/a",
+                "Inicio": "01/03/2022",
+                "Final": "17/08/2022",
+                "Publicar": "01/12/2021",
+                "Módulo": "Tecnología de los alimentos, Seguridad y BPM, Gestión del proceso de trabajo gastronómico, Relaciones de trabajo y orientación profesional, Preparación básica en Panadería, Preparación básica en Pastelería, Elaboraciones de Panaderia, Elaboracion de facturas"
+            },
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 411,
+                "Bloque": "BLOQUE 7 Gastronomia",
+                "HorasSemanales": 23,
+                "FamiliaProfesional": "Gastronomía",
+                "Código": "GH40",
+                "Curso": "Pastelero/a",
+                "Inicio": "18/08/2022",
+                "Final": "12/12/2022",
+                "Publicar": "08/03/2022",
+                "Módulo": "Elaboraciones de Pastelería, Postres clásicos y de restaurante"
+            }
+        ]
+    },
+    {
+        "nombre": "Informatica",
+        "foto": "./imagenescards/informatica.jpg",
+        "cursos": [
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 90,
+                "Bloque": "BLOQUE 22 Adm y Comercialización",
+                "HorasSemanales": 12,
+                "FamiliaProfesional": "Informática",
+                "Código": "IM29",
+                "Curso": "Habilidades Digitales",
+                "Inicio": "07/03/2022",
+                "Final": "25/04/2022",
+                "Publicar": "01/12/2021",
+                "Módulo": ""
+            },
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 90,
+                "Bloque": "BLOQUE 25 Informatica",
+                "HorasSemanales": 12,
+                "FamiliaProfesional": "Informática",
+                "Código": "IM28",
+                "Curso": "Pensamiento Computacional - Programación",
+                "Inicio": "01/03/2022",
+                "Final": "19/04/2022",
+                "Publicar": "01/12/2021",
+                "Módulo": ""
+            },
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 180,
+                "Bloque": "BLOQUE 25 Informatica",
+                "HorasSemanales": 12,
+                "FamiliaProfesional": "Informática",
+                "Código": "IM02",
+                "Curso": "Diseño De Página Web",
+                "Inicio": "26/04/2022",
+                "Final": "02/08/2022",
+                "Publicar": "01/12/2021",
+                "Módulo": ""
+            },
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 225,
+                "Bloque": "BLOQUE 25 Informatica",
+                "HorasSemanales": 12,
+                "FamiliaProfesional": "Informática",
+                "Código": "IM-2022-38",
+                "Curso": "Modelado E Impresión 3D",
+                "Inicio": "04/08/2022",
+                "Final": "08/12/2022",
+                "Publicar": "01/07/2022",
+                "Módulo": "Modelador/a 3D con orientación a Impresión 3D"
+            }
+        ]
+    },
+    {
+        "nombre": "Madera y Mueble",
+        "foto": "./imagenescards/informatica.jpg",
+        "cursos": [
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 250,
+                "Bloque": "BLOQUE 19",
+                "HorasSemanales": 11,
+                "FamiliaProfesional": "Madera y Mueble",
+                "Código": "MM10",
+                "Curso": "Tapicero/a",
+                "Inicio": "24/06/2022",
+                "Final": "02/12/2022",
+                "Publicar": "02/05/2022",
+                "Módulo": ""
+            }
+        ]
+    },
+    {
+        "nombre": "Seguridad y Medio Ambiente",
+        "foto": "./imagenescards/informatica.jpg",
+        "cursos": [
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 100,
+                "Bloque": "BLOQUE 24",
+                "HorasSemanales": 10,
+                "FamiliaProfesional": "Seguridad y Medio Ambiente",
+                "Código": "SM04",
+                "Curso": "Limpieza Institucional",
+                "Inicio": "03/03/2022",
+                "Final": "05/05/2022",
+                "Publicar": "01/12/2021",
+                "Módulo": ""
+            },
+            {
+                "CUE": 61516600,
+                "Región": 13,
+                "Centro": 401,
+                "Distrito": "San Antonio de Areco",
+                "EntidadConveniante": "Municipio",
+                "HorasTotalesAsignadas": 100,
+                "Bloque": "BLOQUE 24",
+                "HorasSemanales": 10,
+                "FamiliaProfesional": "Seguridad y Medio Ambiente",
+                "Código": "SM04",
+                "Curso": "Limpieza Institucional",
+                "Inicio": "23/06/2022",
+                "Final": "30/08/2022",
+                "Publicar": "11/06/2022",
+                "Módulo": "Limpieza Institucional"
             }
         ]
     }

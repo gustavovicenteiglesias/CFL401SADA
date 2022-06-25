@@ -1,4 +1,8 @@
-.foto-portada{
+.App{
+ 
+}
+
+.foto-portada {
   background-image: url("/public/cpf401.jpg");
   width: 100vw;
   height: 500px;
@@ -8,52 +12,93 @@
 }
 
 
-.barra{
+.barra {
   background: linear-gradient(to bottom, black 0%,
-   rgba(0, 0, 0, 0.738) 19%, 
-   rgba(0, 0, 0, 0.541) 34%,
-    rgba(0, 0, 0, 0.382) 47%, 
-    rgba(0, 0, 0, 0.278) 56.5%, rgba(0, 0, 0, 0.194) 
-    65%, rgba(0, 0, 0, 0.126) 
-    73%, rgba(0, 0, 0, 0.075) 80.2%,
-     rgba(0, 0, 0, 0.042) 86.1%, 
-     rgba(0, 0, 0, 0.021) 91%,
+      rgba(0, 0, 0, 0.738) 19%,
+      rgba(0, 0, 0, 0.541) 34%,
+      rgba(0, 0, 0, 0.382) 47%,
+      rgba(0, 0, 0, 0.278) 56.5%, rgba(0, 0, 0, 0.194) 65%, rgba(0, 0, 0, 0.126) 73%, rgba(0, 0, 0, 0.075) 80.2%,
+      rgba(0, 0, 0, 0.042) 86.1%,
+      rgba(0, 0, 0, 0.021) 91%,
       rgba(0, 0, 0, 0.008) 95.2%,
-       rgba(0, 0, 0, 0.002) 98.2%, transparent 100%) !important;
+      rgba(0, 0, 0, 0.002) 98.2%, transparent 100%) !important;
   z-index: 65405;
 }
 
-.texto-portada-vision{
+.texto-portada-vision {
   margin-top: 2rem;
   text-align: center;
-text-justify:distribute;
+  text-justify: distribute;
 
 }
 
-.texto-portada-vision p{
+.texto-portada-vision p {
   text-align: justify;
 }
 
-.navbar-light .navbar-toggler{
+.navbar-light .navbar-toggler {
   border-color: var(--bs-warning) !important;
   color: var(--bs-warning) !important;
 }
-.card-title{
-  padding: 2rem;
+
+.card-title {
+  width: 100%;
+  padding: 1rem;
   text-align: center;
   background-color: beige;
   margin-bottom: .5rem;
 }
 
-.separador{
-  
+.separador {}
+
+.cursos {
+
+  text-align: center;
+  padding: .2rem;
+  border-bottom: 1px solid black;
+}
+
+.cursos h6{
+  font-size: 12px;
+}
+
+.content-cursos {
+ 
+  height: fit-content;
+}
+
+
+.card-body{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(82,82,81,0.05);
+  min-height: 550px;
+  max-height: 700px;
+ transition: .3s;
  
 }
 
-.cursos{
-  text-align: center;
-    padding: 1rem;
-    border-bottom: 1px solid black;
+.card-body:hover{
+  max-height: fit-content;
+  background-color: rgb(82,82,81,0.15);
+ 
+}
+.card{
+  position: relative;
+  z-index: 10;
+transition: .9s;
+}
+.card:hover{
+  z-index: 20;
+  transform: scale(1.2,1.1);
 }
 
+.card-img-top{
+width:  80% !important;
+}
 
+.masinformacion{
+  position: absolute;
+  bottom: 10px;
+}

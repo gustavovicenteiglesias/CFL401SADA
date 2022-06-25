@@ -1,0 +1,38 @@
+[
+    
+    {
+        "CUE": 61516600,
+        "Región": 13,
+        "Centro": 401,
+        "Distrito": "San Antonio de Areco",
+        "EntidadConveniante": "Municipio",
+        "HorasTotalesAsignadas": 540,
+        "Bloque": "BLOQUE 7 Gastronomia",
+        "HorasSemanales": 23,
+        "FamiliaProfesional": "Gastronomía",
+        "Código": "GH39",
+        "Curso": "Panadero/a",
+        "Inicio": "01/03/2022",
+        "Final": "17/08/2022",
+        "Publicar": "01/12/2021",
+        "Módulo": "Tecnología de los alimentos, Seguridad y BPM, Gestión del proceso de trabajo gastronómico, Relaciones de trabajo y orientación profesional, Preparación básica en Panadería, Preparación básica en Pastelería, Elaboraciones de Panaderia, Elaboracion de facturas"
+    },
+   
+    {
+        "CUE": 61516600,
+        "Región": 13,
+        "Centro": 401,
+        "Distrito": "San Antonio de Areco",
+        "EntidadConveniante": "Municipio",
+        "HorasTotalesAsignadas": 411,
+        "Bloque": "BLOQUE 7 Gastronomia",
+        "HorasSemanales": 23,
+        "FamiliaProfesional": "Gastronomía",
+        "Código": "GH40",
+        "Curso": "Pastelero/a",
+        "Inicio": "18/08/2022",
+        "Final": "12/12/2022",
+        "Publicar": "08/03/2022",
+        "Módulo": "Elaboraciones de Pastelería, Postres clásicos y de restaurante"
+    }
+]
