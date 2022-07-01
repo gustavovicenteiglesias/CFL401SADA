@@ -26,11 +26,17 @@
 }
 
 .texto-portada-vision {
+  
   margin-top: 2rem;
   text-align: center;
   text-justify: distribute;
 
 }
+.texto-portada-vision h2{
+font-weight: 700;
+
+}
+
 
 .texto-portada-vision p {
   text-align: justify;
@@ -45,7 +51,7 @@
   width: 100%;
   padding: 1rem;
   text-align: center;
-  background-color: beige;
+  background-color:  #a1b137;
   margin-bottom: .5rem;
 }
 
@@ -101,4 +107,39 @@ width:  80% !important;
 .masinformacion{
   position: absolute;
   bottom: 10px;
+}
+
+.foto-novedades{
+  height: 480px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.footer{
+  height: 250px;
+  background-color: #a1b137;
+}
+.footer__col{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer__col__1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+@media screen and (max-width :992px){
+  .foto-novedades{
+    height: 400px;
+   
+  }
+
+  .footer{
+    height:fit-content;
+    background-color: #a1b137;
+  }
 }

@@ -26,9 +26,9 @@ const Navegacion = () => {
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="me-auto">
-                                <Nav.Link as={Link} to="/inicio"><Button variant="outline-warning">Home</Button></Nav.Link>
-                                <Nav.Link as={Link} to="/institucional"><Button variant="outline-warning">Institucional</Button></Nav.Link>
-                                <Nav.Link as={Link} to="/contacto"><Button variant="outline-warning">Contacto</Button></Nav.Link>
+                                <Nav.Link as={Link} to="/inicio"><Button variant="outline-light">Home</Button></Nav.Link>
+                                <Nav.Link as={Link} to="/institucional"><Button variant="outline-light">Institucional</Button></Nav.Link>
+                                <Nav.Link as={Link} to="/contacto"><Button variant="outline-light">Contacto</Button></Nav.Link>
                             </Nav>
                         </Navbar.Collapse>
                     </Container>
