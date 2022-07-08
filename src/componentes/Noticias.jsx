@@ -9,7 +9,7 @@ const Noticias = () => {
 
             {novedades.map((data, i) => {
                 return (
-                    <Carousel.Item>
+                    <Carousel.Item key={i}>
                         <div
                         style={{backgroundImage:`url(${data.imagen})`}}
                         className="foto-novedades"
