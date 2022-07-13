@@ -11,6 +11,7 @@ import TextilEIndumentaria from "../assets/datos/TextilEIndumentaria.json";
 import MasInformacion from "../Pages/MasInformacion";
 import { Row, Col, Card, Button } from "react-bootstrap";
 import moment from 'moment';
+import { Navigate } from "react-router-dom";
 
 
 const TargetasFamilias = () => {
@@ -44,7 +45,8 @@ const TargetasFamilias = () => {
    
         if(info) {
         return(
-            <MasInformacion dato={datos}/>
+            
+         <Navigate to="/masinformacion" state={{id:1,dato:datos}}/>
         )
         
     
@@ -57,10 +59,10 @@ const TargetasFamilias = () => {
 
                 return (
                     <Col lg={4} xl={4} sm={12} key={i} className="mt-4 tarjeta">
-                        <Card style={{ width: '100%' }}>
-                            <Card.Body>
-                                <Card.Title>{data.nombre}</Card.Title>
-                                <Card.Img variant="top" src={data.foto} />
+                        <Card className="familias" style={{ width: '100%' }}>
+                            <Card.Body className="familias">
+                                <Card.Title className="familias">{data.nombre}</Card.Title>
+                                <Card.Img className="familias" variant="top" src={data.foto} />
                                 <div className="content-cursos">
                                     {data.cursos.map((curso, i) => {
                                         return (

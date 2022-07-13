@@ -6,6 +6,7 @@ import Contacto from "../Pages/Contacto"
 import Institucional from "../Pages/Institucional"
 import logoCFL from "../assets/logoCFL.png"
 import "../App.css"
+import MasInformacion from "../Pages/MasInformacion";
 
 const Navegacion = () => {
     return (
@@ -38,6 +39,7 @@ const Navegacion = () => {
                     <Route path="/inicio" element={<Home />} />
                     <Route path="/institucional" element={<Institucional />} />
                     <Route path="/contacto" element={<Contacto />} />
+                    <Route path="/masinformacion"  element={<MasInformacion/>} />
                 </Routes>
             </BrowserRouter>
         </>

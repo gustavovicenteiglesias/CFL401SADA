@@ -912,7 +912,16 @@
                 "Inicio": "04/08/2022",
                 "Final": "08/12/2022",
                 "Publicar": "01/07/2022",
-                "Módulo": "Modelador/a 3D con orientación a Impresión 3D"
+                "Módulo": "Modelador/a 3D con orientación a Impresión 3D",
+                "calendar":{
+                    "Lunes": "Libre",
+                    "Martes": "18:00 - 20:40",
+                    "Miercoles": "Libre",
+                    "Jueves": "18:00 - 20:40",
+                    "Viernes": "18:00 - 20:40",
+                    "Sabados": "Libre",
+                    "Domingos": "Libre"
+                }
             }
         ]
     },

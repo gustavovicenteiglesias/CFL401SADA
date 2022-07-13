@@ -47,7 +47,7 @@ font-weight: 700;
   color: var(--bs-warning) !important;
 }
 
-.card-title {
+.card-title.familias {
   width: 100%;
   padding: 1rem;
   text-align: center;
@@ -74,7 +74,7 @@ font-weight: 700;
 }
 
 
-.card-body{
+.card-body.familias{
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -85,22 +85,22 @@ font-weight: 700;
  
 }
 
-.card-body:hover{
+.card-body.familias:hover{
   max-height: fit-content;
   background-color: rgb(82,82,81,0.15);
  
 }
-.card{
+.card.familias{
   position: relative;
   z-index: 10;
 transition: .9s;
 }
-.card:hover{
+.card.familias:hover{
   z-index: 20;
   transform: scale(1.2,1.1);
 }
 
-.card-img-top{
+.card-img-top.familias{
 width:  80% !important;
 }
 
@@ -131,7 +131,9 @@ width:  80% !important;
   justify-content: center;
   flex-direction: column;
 }
-
+.masinformacion_div{
+  min-height: 400px;
+}
 @media screen and (max-width :992px){
   .foto-novedades{
     height: 400px;
