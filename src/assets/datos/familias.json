@@ -416,7 +416,7 @@
     },
     {
         "nombre": "Industria Cultural y Creativas",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/artes_visuales.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -950,7 +950,7 @@
     },
     {
         "nombre": "Seguridad y Medio Ambiente",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/limpieza_institucional.jpg",
         "cursos": [
             {
                 "CUE": 61516600,

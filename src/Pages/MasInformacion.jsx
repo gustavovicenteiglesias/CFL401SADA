@@ -2,8 +2,8 @@ import React from "react";
 import { useEffect } from "react";
 import { useState } from "react";
 import { useLocation } from 'react-router-dom';
-import CursoService from "../peticiones/cursoservice";
-import planificacion from "../assets/datos/planificacion.json"
+
+
 import { Card, Table } from "react-bootstrap";
 const MasInformacion = (props) => {
     const [dato, setDato] = useState([]);
