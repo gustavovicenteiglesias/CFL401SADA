@@ -37,7 +37,9 @@ font-weight: 700;
 
 }
 
-
+.familias{
+  border-radius: 2rem !important;
+}
 .texto-portada-vision p {
   text-align: justify;
 }
@@ -51,7 +53,7 @@ font-weight: 700;
   width: 100%;
   padding: 1rem;
   text-align: center;
-  background-color:  #a1b137;
+  background-color:  #b1a24e;
   margin-bottom: .5rem;
 }
 
@@ -75,6 +77,7 @@ font-weight: 700;
 
 
 .card-body.familias{
+ 
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -82,6 +85,7 @@ font-weight: 700;
   min-height: 550px;
   max-height: 700px;
  transition: .3s;
+ background-color: rgb(241, 226, 205);
  
 }
 
@@ -91,11 +95,13 @@ font-weight: 700;
  
 }
 .card.familias{
+ 
   position: relative;
   z-index: 10;
 transition: .9s;
 }
 .card.familias:hover{
+  
   z-index: 20;
   transform: scale(1.2,1.1);
 }
@@ -118,7 +124,7 @@ width:  80% !important;
 }
 .footer{
   height: 250px;
-  background-color: #a1b137;
+  background-color: #b1a24e;
 }
 .footer__col{
   display: flex;
@@ -134,6 +140,25 @@ width:  80% !important;
 .masinformacion_div{
   min-height: 400px;
 }
+.btn.btn-outline-success {
+  color: #7e743e;
+  border-color: #7e743e;
+}
+
+  
+
+#root{
+  background-color: #fcfae8;
+  --bs-success: #7e743e;
+}
+.boton-masinformacion:hover{
+background-color: #7e743e !important;
+}
+.btn.btn-outline-light {
+  color: #7e743e;
+  border-color: #7e743e;
+  background-color: #fcfae8;
+}
 @media screen and (max-width :992px){
   .foto-novedades{
     height: 400px;
@@ -142,6 +167,6 @@ width:  80% !important;
 
   .footer{
     height:fit-content;
-    background-color: #a1b137;
+    background-color: #b1a24e;
   }
 }

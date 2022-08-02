@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Actividades Agropecuarias",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/act-agropecuarias.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -75,7 +75,7 @@
     },
     {
         "nombre": "Construcciones",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/construcciones.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -166,7 +166,7 @@
     },
     {
         "nombre": "Hoteleria y Turismo",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/hoteleria.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -291,7 +291,7 @@
     },
     {
         "nombre": "Industria Alimentaria",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/alimentos.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -439,7 +439,7 @@
     },
     {
         "nombre": "Oficios Artesanales",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/artesanales.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -496,7 +496,7 @@
     },
     {
         "nombre": "Salud",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/salud.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -553,7 +553,7 @@
     },
     {
         "nombre": "Textil e Indumentaria",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/textil.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -627,7 +627,7 @@
     },
     {
         "nombre": "Administración y Comercialización",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/administracion.webp",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -735,7 +735,7 @@
     },
     {
         "nombre": "Comunicación Social",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/relaciones.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -758,7 +758,7 @@
     },
     {
         "nombre": "Cuero y Calzado",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/cuero.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -781,7 +781,7 @@
     },
     {
         "nombre": "Energía Eléctrica",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/electricidad.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -804,7 +804,7 @@
     },
     {
         "nombre": "Gastronomía",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/gastronomia.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
@@ -927,7 +927,7 @@
     },
     {
         "nombre": "Madera y Mueble",
-        "foto": "./imagenescards/informatica.jpg",
+        "foto": "./imagenescards/muebles.jpg",
         "cursos": [
             {
                 "CUE": 61516600,
