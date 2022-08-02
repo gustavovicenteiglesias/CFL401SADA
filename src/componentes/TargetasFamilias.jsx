@@ -73,7 +73,7 @@ const TargetasFamilias = () => {
                                     })}
                                 </div>
                                 <div className="d-grid gap-2 mt-1 masinformacion">
-                                    <Button variant="outline-success" onClick={() => masIformacion(data)}>Mas informacion</Button>
+                                    <Button variant="outline-success" className="boton-masinformacion" onClick={() => masIformacion(data)}>Mas informacion</Button>
                                 </div>
                             </Card.Body>
                         </Card>
