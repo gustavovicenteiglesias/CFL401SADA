@@ -16,7 +16,14 @@ const MasInformacion = (props) => {
         setDato(location.state.dato)
 
     }, [])
-
+    if(dato.length ===0){
+        return(
+            <Card style={{ width: '100%' }} className="mt-5">
+            <h2>No hay nada </h2>
+            </Card>
+        )
+    }
+   
     return (
         <div className="masinformacion_div">
 
