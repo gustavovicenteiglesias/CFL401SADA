@@ -1,6 +1,6 @@
 import React from "react"
 import { Container, Row, Col,Card } from 'react-bootstrap';
-import cursos from "../assets/datos/cursos.json"
+
 import TargetasFamilias from "../componentes/TargetasFamilias";
 import Noticias from "../componentes/Noticias";
 const Home = () => {

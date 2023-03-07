@@ -1,14 +1,6 @@
 import React, { useState } from "react";
 import familias from "../assets/datos/familias.json";
-import ActividadesAgropecuarias from "../assets/datos/ActividadesAgropecuarias.json";
-import Construcciones from "../assets/datos/Construcciones.json";
-import HoteleriayTurismo from "../assets/datos/HoteleriayTurismo.json";
-import IndustriaAlimentaria from "../assets/datos/IndustriaAlimentaria.json";
-import IndustriaCulturalYCreativas from "../assets/datos/IndustriaCulturalYCreativas.json";
-import OficiciosArtesales from "../assets/datos/OficiosArtesanales.json";
-import Salud from "../assets/datos/Salud.json";
-import TextilEIndumentaria from "../assets/datos/TextilEIndumentaria.json";
-import MasInformacion from "../Pages/MasInformacion";
+
 import { Row, Col, Card, Button } from "react-bootstrap";
 import moment from 'moment';
 import { Navigate } from "react-router-dom";
